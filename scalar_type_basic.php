@@ -2,6 +2,11 @@
 
 declare(strict_types=1);
 
+/**
+ * Example basic class of scalar type declaration
+ * 
+ * @author Diego Brocanelli <contato@diegobrocanelli.com.br>
+ */
 class Calculator
 {
     /**
